@@ -1,8 +1,0 @@
-Background
-- what service did you choose? (provide URLs along with description of what it provides)
-- Deecribe how you are going to use the Web services in your Python application
-
-- I chose Alpha Vantage (url:https://www.alphavantage.co/#page-top), a provider of free APIs for realtime and historical data on stocks, physical currencies, and digital/crypto currencies.
-- I can use these web services to analyze different stocks to find out which one is the best to invest in given the same amount of time and money.
-
-**Mirco => sounds good!
